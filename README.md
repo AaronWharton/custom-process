@@ -7,7 +7,7 @@ This is a directory for assembly that I learned from *Assembly Language for x86 
 This directory is just for recording code for assembly, if you want to run it, please contact me.
 
 ##Develop
-This directory is on the way of building, not complite.
+This directory is in the process of building, eager for your contributions!
 
 ##FAQ
 If you have any question or advice, please new [issues](https://github.com/AaronWharton/custom-process/issues/new) or [pull request](https://github.com/AaronWharton/custom-process/compare).
